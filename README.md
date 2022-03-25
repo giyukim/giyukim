@@ -1,2 +1,2 @@
-- Kim Giyu
+- Giyu Kim
 - giyu1020@gmail.com
