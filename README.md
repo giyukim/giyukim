@@ -1,3 +1,3 @@
--    Name: Giyu Kim
--  E-Mail: giyu1020@gmail.com
-- Domains: gyk.kr | jgamgyul.kr
+-   Name: Giyu Kim
+- E-Mail: giyukim@mail.gyk.com
+-   Blog: blog.gyk.kr
