@@ -1,3 +1,3 @@
--   Name: Giyu Kim
-- E-Mail: giyukim@mail.gyk.com
--   Blog: blog.gyk.kr
+-   name: Giyu Kim
+- e-mail: giyukim@mail.gyk.kr | giyukim@soongsil.ac.kr
+-   blog: blog.gyk.kr
